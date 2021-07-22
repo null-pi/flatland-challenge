@@ -1,0 +1,53 @@
+name: flatland-rl-test2
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - ca-certificates=2020.7.22
+  - cairo=1.16.0
+  - cairocffi=1.1.0
+  - cairosvg=2.4.2
+  - certifi=2020.6.20
+  - cffi=1.14.2
+  - cssselect2=0.2.1
+  - defusedxml=0.6.0
+  - fontconfig=2.13.1
+  - freetype=2.10.2
+  - gettext=0.19.8.1
+  - glib=2.65.0
+  - icu=67.1
+  - jpeg=9d
+  - lcms2=2.11
+  - libcxx=10.0.0
+  - libedit=3.1.20191231
+  - libffi=3.3
+  - libiconv=1.16
+  - libpng=1.6.37
+  - libtiff=4.1.0
+  - libwebp-base=1.1.0
+  - libxml2=2.9.10
+  - lz4-c=1.9.2
+  - ncurses=6.2
+  - olefile=0.46
+  - openssl=1.1.1g
+  - pcre=8.44
+  - pillow=7.2.0
+  - pip=20.2.2
+  - pixman=0.38.0
+  - pycairo=1.19.1
+  - pycparser=2.20
+  - python=3.7.9
+  - python_abi=3.7
+  - readline=8.0
+  - setuptools=49.6.0
+  - sqlite=3.33.0
+  - tinycss2=1.0.2
+  - tk=8.6.10
+  - xz=5.2.5
+  - zlib=1.2.11
+  - zstd=1.4.5
+  - pip:
+    - webencodings==0.5.1
+    - wheel==0.35.1
+prefix: /usr/local/Caskroom/miniconda/base/envs/flatland-rl-test2
